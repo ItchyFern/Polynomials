@@ -1,0 +1,32 @@
+/home/seth/Documents/COIS 2020/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.csprojAssemblyReference.cache
+/home/seth/Documents/COIS 2020/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.csproj.CoreCompileInputs.cache
+/home/seth/Documents/COIS 2020/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.AssemblyInfoInputs.cache
+/home/seth/Documents/COIS 2020/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.AssemblyInfo.cs
+/home/seth/Documents/COIS 2020/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.deps.json
+/home/seth/Documents/COIS 2020/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.runtimeconfig.json
+/home/seth/Documents/COIS 2020/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.runtimeconfig.dev.json
+/home/seth/Documents/COIS 2020/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.dll
+/home/seth/Documents/COIS 2020/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.pdb
+/home/seth/Documents/COIS 2020/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.dll
+/home/seth/Documents/COIS 2020/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.pdb
+/home/seth/Documents/COIS2020/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.deps.json
+/home/seth/Documents/COIS2020/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.runtimeconfig.json
+/home/seth/Documents/COIS2020/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.runtimeconfig.dev.json
+/home/seth/Documents/COIS2020/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.dll
+/home/seth/Documents/COIS2020/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.pdb
+/home/seth/Documents/COIS2020/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.csprojAssemblyReference.cache
+/home/seth/Documents/COIS2020/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.csproj.CoreCompileInputs.cache
+/home/seth/Documents/COIS2020/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.AssemblyInfoInputs.cache
+/home/seth/Documents/COIS2020/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.AssemblyInfo.cs
+/home/seth/Documents/COIS2020/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.dll
+/home/seth/Documents/COIS2020/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.pdb
+/home/seth/development/dotnet/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.deps.json
+/home/seth/development/dotnet/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.runtimeconfig.json
+/home/seth/development/dotnet/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.runtimeconfig.dev.json
+/home/seth/development/dotnet/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.dll
+/home/seth/development/dotnet/Assignment1/bin/Debug/netcoreapp2.1/Assignment1.pdb
+/home/seth/development/dotnet/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.csprojAssemblyReference.cache
+/home/seth/development/dotnet/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.AssemblyInfoInputs.cache
+/home/seth/development/dotnet/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.AssemblyInfo.cs
+/home/seth/development/dotnet/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.dll
+/home/seth/development/dotnet/Assignment1/obj/Debug/netcoreapp2.1/Assignment1.pdb
